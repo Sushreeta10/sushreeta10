@@ -1,0 +1,11 @@
+--2026-03-19 20:18:22--  https://www.google.com/search?q=difference+between+wget+and+curl
+Resolving www.google.com (www.google.com)... 142.251.152.119, 142.251.155.119, 142.251.156.119, ...
+Connecting to www.google.com (www.google.com)|142.251.152.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘search?q=difference+between+wget+and+curl’
+
+                  search?q=differen     [<=>                                                               ]       0  --.-KB/s                                search?q=differenc     [ <=>                                                              ]  10.61K  26.1KB/s                               search?q=difference     [  <=>                                                             ]  41.31K  66.2KB/s               search?q=difference+between+wget+an     [   <=>                                                            ]  87.11K   108KB/s    in 0.8s    
+
+2026-03-19 20:18:23 (108 KB/s) - ‘search?q=difference+between+wget+and+curl’ saved [89197]
+

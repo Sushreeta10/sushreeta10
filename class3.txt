@@ -1,0 +1,15 @@
+ravi    likes    red       apples    every     day
+sita    reads    many      books     in        library
+ram     plays    cricket   every     sunday    evening
+anu     eats     sweet     mangoes   during    summer
+John    drives   fast      car       on        highway
+
+meena   writes   long      letters   to        friends
+arun    watches  funny     movies    at        night
+kiran   drinks   fresh     milk      every     morning
+lata    sings    soft      songs     on        stage
+ramesh  buys     green     vegitable from      market
+
+neha    learns   python   programming daily
+amit    cleans   room      every      morning 
+sara    draws    beautiful picture
